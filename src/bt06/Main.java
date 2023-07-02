@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        File pathfile = new File("C:\\Users\\ADMIN\\Desktop\\MODULE 3\\SS16_BaiTap\\src\\bt04\\text.txt");
+        File pathfile = new File("C:\\Users\\ADMIN\\Desktop\\MODULE 3\\SS16_BaiTap\\src\\bt06\\text.txt");
         BufferedReader reader = new BufferedReader(new FileReader(pathfile));
         String line = "";
         String[] str = new String[line.length()];
